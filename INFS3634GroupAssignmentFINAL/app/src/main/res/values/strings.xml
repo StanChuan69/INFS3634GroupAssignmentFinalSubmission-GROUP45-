@@ -1,0 +1,50 @@
+<resources>
+    <!--START PAGE TEXT-->
+    <string name="startPageTitle">Welcome to the Java Revision App!</string>
+    <string name="startPageIntroText">This app will focus on revising the 4 fundamental concepts of object oriented programming: abstraction, polymorphism, inheritance and encapsulation (APIE!).Click start below to begin!</string>
+
+    <!--APP MAIN PAGE TEXT-->
+    <string name="mainPage1Title">Home Page</string>
+    <string name="mainPage2Text">The java programming language is object oriented, meaning is based around classes and objects.This app aims to revise and solidify our understanding of the 4 APIE concepts of object oriented programming to ensure we build the best java programs. </string>
+    <string name="mainPage3Text">Just to note, this app assumes basic knowledge of Java and OOP and is intended as a revision tool. Click on the navigation bar to start! </string>
+
+    <!--ABSTRACTION FRAGMENT XML-->
+    <string name="abstractionFragment1Title">ABSTRACTION</string>
+    <string name="abstractionFragment2Text">Abstraction in Java OOP refers to only showing functionality and hiding internal details and implementation of classes. Click on the button below to watch a brief revision on abstraction. </string>
+    <string name="abstractionFragment3Review">Play the video in full screen for the best emersion! Press back to return to the abstraction page.</string>
+    <string name="abstractionFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what abstraction is in terms of object oriented programming. When you are ready, move on to the next concept, polymorphism!</string>
+
+    <!--POLYMORPHISM FRAGMENT XML-->
+    <string name="polymorphismFragment1Title">POLYMORPHISM</string>
+    <string name="polymorphismFragment2Text">Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.</string>
+    <string name="polymorphismFragment3Review">Play the video in full screen for the best emersion! Press back to return to the polymorphism page.</string>
+    <string name="polymorphismFragment4ReviewQustions">How did you find the video? In your own words, explain out loud what polymorphism is in terms of object oriented programming. When you are ready, move on to the next concept, inheritance!</string>
+
+    <!--INHERITANCE FRAGMENT XML-->
+    <string name="inheritanceFragment1Title">INHERITANCE</string>
+    <string name="inheritanceFragment2Text">Inheritance is the mechanism by which a class acquires the properties and behaviours of its parent class.</string>
+    <string name="inheritanceFragment3Review">Play the video in full screen for the best emersion! Press back to return to the inheritance page.</string>
+    <string name="inheritanceFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what inheritance is in terms of object oriented programming. When you are ready, move on to the next concept, encapsulation!</string>
+
+    <!--ENCAPSULATION FRAGMENT XML-->
+    <string name="encapsulationFragment1Title">ENCAPSULATION</string>
+    <string name="encapsulationFragment2Text">Encapsulation is a mechanism that wraps the variables and methods together as a single unit. A more common understanding of encapsulation is to hide the internal representation, or state,/implementation details of an object from users.</string>
+    <string name="encapsulationFragment3Review">Play the video in full screen for the best emersion! Press back to return to the encapsulation page.</string>
+    <string name="encapsulationFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what encapsulation is in terms of object oriented programming. When you are ready, give the quiz a try to consolidate your learning!</string>
+
+    ----------------------------------------------------------------------------------------------------
+    <!--ALL THE OTHER STRING RESOURCES-->
+    <string name="app_name">INFS3634GroupAssignment</string>
+    <string name="title_activity_app_main_page">AppMainPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_abstraction_page">AbstractionPage</string>
+    <string name="appmainpagetitle">THIS IS THE MAIN PAGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_quiz_trialrun">QuizActivityTRIALRUN</string>
+</resources>
